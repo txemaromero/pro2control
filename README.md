@@ -5,3 +5,5 @@ This system (http://youtu.be/aX5LBr8o0SA) simulates an industrial chain using a 
 NOTE: Copy all files in Matlab current directory and type "controlMechanicalPieces" on Matlab command window.
 
 The piece images included are taken from University of Mondragon.
+
+![Tutorial video](tutorial/tutorialControlMechanicalPieces.gif)
